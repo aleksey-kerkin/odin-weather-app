@@ -1,0 +1,19 @@
+{
+  "name": "odin-weather-app",
+  "version": "1.0.0",
+  "main": "assets/scripts/server.js",
+  "scripts": {
+    "start": "node assets/scripts/server.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Aleksey Kerkin <aleksey.kerkin@yandex.ru>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  }
+}
